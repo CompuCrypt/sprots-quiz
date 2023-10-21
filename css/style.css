@@ -1,0 +1,53 @@
+body{
+    background-image: url("../media/grass.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 1000px;
+}
+
+p {
+    color: red;
+}
+
+body {
+    background-color: white;
+}
+
+.check, .check2, .check3, .check4 {
+    font-size:100px;
+    color: black;
+    font-weight:1000;
+    text-align: center;
+    margin-top: 200px;
+    border: 20px;
+    background-color: green;
+}
+
+.ex, .ex2, .ex3, .ex4 {
+    font-size: 100px;
+    color: black;
+    font-weight:1000;
+    text-align: center;
+    margin-top: 200px;
+    border: 20px;
+    background-color: red;
+}
+
+.container2, .container3, .container4, .container5 {
+    display: none;
+}
+
+.center {
+    border: solid 10px black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+    background-color: lightgray;
+}
+
+#playerScore {
+    text-align: center;
+    font-size: xx-large;
+}
